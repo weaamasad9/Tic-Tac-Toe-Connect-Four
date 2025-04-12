@@ -38,6 +38,6 @@ java Main
 
 ## 📈 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourUsername&layout=compact&theme=dark)](https://github.com/yourUsername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weaamasad9&layout=compact&theme=dark)](https://github.com/weaamasad9)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&theme=dark)](https://github.com/yourUsername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weaamasad9&show_icons=true&theme=dark)](https://github.com/weaamasad9)
